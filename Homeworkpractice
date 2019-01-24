@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  cout << "Hello It's me. " endl;
+  cout << "I'm learning to program. " endl;
+  system("pause")
+  return0;
+}
